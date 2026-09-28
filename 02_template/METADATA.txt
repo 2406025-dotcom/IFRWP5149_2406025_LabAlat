@@ -1,0 +1,12 @@
+
+ID artefak		:01
+judul			:Pengenalan Lingkungan Praktikum dan Kakas Pemodelan UML 
+Pertemuan		:1
+Sumber sekenario 	:Sistem internal pengerjaan dan pengembalian peralatan laboratorium kampuas
+Jenis/status		:latihan / draf / telah diriviw
+Kakas			:draw.io
+Pembuat			:2406025
+Versi dan tanggal	:28-09-2026
+Asumsi/pertanyaan	:-
+Pemeriksaan		:-
+Riwayat revisi		:-

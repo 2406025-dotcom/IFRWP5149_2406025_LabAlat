@@ -1,0 +1,12 @@
+METADATA
+ID artefak		:
+judul			:
+Pertemuan		:
+Sumber sekenario 	:
+Jenis/status		:latihan / draf / telah diriviw
+Kakas			:
+Pembuat			:
+Versi dan tanggal	:
+Asumsi/pertanyaan	:
+Pemeriksaan		:
+Riwayat revisi
