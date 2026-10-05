@@ -1,0 +1,2 @@
+perbaikan notasi
+1. 

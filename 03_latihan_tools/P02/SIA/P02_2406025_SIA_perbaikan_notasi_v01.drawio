@@ -1,0 +1,28 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Halaman-1" id="hTdo-X-6JnQeFaU8GJUk">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7SJDIsPDq_fQDI678pwP-1" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;" value="Sistem laboratorium" vertex="1">
+          <mxGeometry height="490" width="340" x="520" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="7SJDIsPDq_fQDI678pwP-2" parent="7SJDIsPDq_fQDI678pwP-1" style="ellipse;" value="Lihat jadwal" vertex="1">
+          <mxGeometry height="50" width="100" x="40" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="7SJDIsPDq_fQDI678pwP-3" parent="7SJDIsPDq_fQDI678pwP-1" style="whiteSpace=wrap;html=1;" value="&#xa;Lihat jadwal&#xa;&#xa;" vertex="1">
+          <mxGeometry height="60" width="120" x="30" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="7SJDIsPDq_fQDI678pwP-4" edge="1" parent="1" source="7SJDIsPDq_fQDI678pwP-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" target="7SJDIsPDq_fQDI678pwP-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7SJDIsPDq_fQDI678pwP-5" edge="1" parent="1" source="7SJDIsPDq_fQDI678pwP-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="7SJDIsPDq_fQDI678pwP-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7SJDIsPDq_fQDI678pwP-6" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Mahasiswa" vertex="1">
+          <mxGeometry height="60" width="30" x="430" y="270" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
