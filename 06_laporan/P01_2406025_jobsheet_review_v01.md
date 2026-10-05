@@ -1,0 +1,6 @@
+| No. | Temuan                                       | Perbaikan yang diperlukan                               | Alasan                                                              |
+| --- | -------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------------------- |
+| 1   | Aktor Mahasiswa berada di dalam batas sistem | Pindahkan aktor Mahasiswa ke luar batas sistem          | Aktor merupakan pihak eksternal yang berinteraksi dengan sistem     |
+| 2   | Lihat jadwal kuliah berbentuk kotak          | Ubah menjadi bentuk **use case/oval**                   | Fungsi pada use case diagram digambarkan dengan oval                |
+| 3   | Mahasiswa terhubung ke Kelola jadwal kuliah  | Hapus hubungan tersebut dan hubungkan aktor yang sesuai | Hubungan aktor harus sesuai dengan fungsi yang dijalankannya        |
+| 4   | Identitas diagram “Sistem Laboratorium”      | Ganti menjadi **Sistem Informasi Akademik**             | Nama diagram harus sesuai dengan sistem yang menjadi objek analisis |
