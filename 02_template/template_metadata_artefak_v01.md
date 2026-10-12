@@ -4,7 +4,7 @@ Pertemuan : 1
 Sumber skenario : Sistem Internal Pengerjaan dan Pengembalian Peralatan Laboratorium Kampus
 Jenis/status : latihan
 Kakas : draw.io
-Pembuat : 2406020
+Pembuat : 2406025
 Versi dan tanggal : 28-09-2026
 Asumsi/pertanyaan : -
 Pemeriksaan : -
